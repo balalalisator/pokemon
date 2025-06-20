@@ -1,0 +1,140 @@
+[
+{
+    "name": "stakataka",
+    "type": "steel",
+    "type2": "rock",
+    "total": ""
+},
+{
+    "name": "lucario",
+    "type": "steel",
+    "type2": "fighting",
+    "total": ""
+},
+{
+    "name": "mew",
+    "type": "psychic",
+    "type2": " ",
+    "total": ""
+},
+{
+    "name": "houndour",
+    "type": "dark",
+    "type2": "fire",
+    "total": ""
+},
+{
+    "name": "metagross",
+    "type": "steel",
+    "type2": "psychic",
+    "total": ""
+},
+{
+    "name": "naganadel",
+    "type": "dragon",
+    "type2": "poison",
+    "total": ""
+},
+{
+    "name": "empoleon",
+    "type": "water",
+    "type2": "steel",
+    "total": ""
+},
+{
+    "name": "yveltal",
+    "type": "dark",
+    "type2": "flying",
+    "total": ""
+},
+{
+    "name": "marshadow",
+    "type": "fighting",
+    "type2": "ghost",
+    "total": ""
+},
+{
+    "name": "hydreigon",
+    "type": "dark",
+    "type2": "dragon",
+    "total": ""
+},
+{
+    "name": "vikavolt",
+    "type": "bug",
+    "type2": "electric",
+    "total": ""
+},
+{
+    "name": "leafeon",
+    "type": "grass",
+    "type2": " ",
+    "total": ""
+},
+{
+    "name": "garchomp",
+    "type": "dragon",
+    "type2": "ground",
+    "total": ""
+},
+{
+    "name": "kubfu",
+    "type": "fighting",
+    "type2": " ",
+    "total": ""
+},
+{
+    "name": "hitmontop",
+    "type": "fighting",
+    "type2": " ",
+    "total": ""
+},
+{
+    "name": "sir fetch'd",
+    "type": "fighting",
+    "type2": " ",
+    "total": ""
+},
+{
+    "name": "gallade",
+    "type": "fighting",
+    "type2": "psychic",
+    "total": ""
+},
+{
+    "name": "honchkrow",
+    "type": "dark",
+    "type2": "flying",
+    "total": ""
+},
+{
+    "name": "sceptile",
+    "type": "grass",
+    "type2": " ",
+    "total": ""
+},
+{
+    "name": "solgaleo",
+    "type": "psychic",
+    "type2": "steel",
+    "total": ""
+},
+{
+    "name": "accelgore",
+    "type": "bug",
+    "type2": " ",
+    "total": ""
+},
+{
+    "name": "hoopa",
+    "type": "psychic",
+    "type2": "ghost",
+    "total": ""
+},
+{
+    "name": "magearnia",
+    "type": "steel",
+    "type2": "fairy",
+    "total": ""
+}
+]
